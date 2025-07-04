@@ -2,7 +2,7 @@
 
 A modern, full-stack quiz application built with React, TypeScript, Node.js, and Tailwind CSS. Test your knowledge across multiple categories with an engaging, responsive interface.
 
-![Quiz Master Screenshot](https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+
 
 ## ✨ Features
 
